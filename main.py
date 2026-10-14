@@ -4,7 +4,7 @@
 
 # steps: 
 # -> Load and normalise the training and test datasets using torchvision
-# -> Define a convolutional neural network 
+# -> Define a convolutional neural network (CNN) 
 # -> Define a loss function 
 # -> Train the network on the training data 
 # -> Test the network on the test data 
